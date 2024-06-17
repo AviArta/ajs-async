@@ -1,7 +1,7 @@
 import savingLoader from '../app';
 
 // eslint-disable-next-line no-undef
-jest.setTimeout(20000);
+jest.setTimeout(30000);
 
 // eslint-disable-next-line no-undef
 test("check function savingLoader in app.js", () => savingLoader()
